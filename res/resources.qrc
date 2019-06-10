@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>splash.png</file>
+        <file>logo.jpg</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>DWctrler.ico</file>
+    </qresource>
+</RCC>
