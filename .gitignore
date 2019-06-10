@@ -1,0 +1,8 @@
+*.cache
+*.stash
+*.o
+moc_*
+qrc_*
+ui_*
+DecaRangeRTLS
+*.xml
